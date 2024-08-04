@@ -10,6 +10,49 @@ Red Line connects old city of Vadodara to the industrial area of GSFC via Railwa
 
 ![image](https://user-images.githubusercontent.com/56454817/232204295-1d0fb3a7-61c6-4992-9119-dde21f3ca9d0.png)
 
+# List of stations
+| Line | Station                |
+|:----:|------------------------|
+| Blue | Airport                |
+| Red  | Ajwa                   |
+| Red  | Ajwa Bridge            |
+| Blue | Akota Stadium          |
+| Blue | Akshar Chowk           |
+| Blue | Bhavans School         |
+| Red  | Bullet Train Station   |
+| Blue | Chakli Circle          |
+| Red  | Chhani                 |
+| Red  | Dandiya Bazar          |
+| Blue | Fatehgunj              |
+| Blue | Genda Circle           |
+| Red  | GSFC                   |
+| Blue | Harni Lake             |
+| Red  | IOCL                   |
+| Red  | Jail Road              |
+| Red  | Kala Ghoda             |
+| Blue | Karelibaugh North      |
+| Blue | Karelibaugh South      |
+| Blue | Makarpura Bus Stand    |
+| Blue | Makarpura Palace       |
+| Red  | Mandvi Gate            |
+| Blue | Manjalpur 1            |
+| Blue | Manjalpur 2            |
+| Blue | MSU                    |
+| Red  | MSU                    |
+| Red  | Nizampura 1            |
+| Red  | Nizampura 2            |
+| Red  | Nyay Mandir            |
+| Red  | Pandya Bridge          |
+| Red  | Pani Gate              |
+| Blue | RC Dutt Road           |
+| Red  | Sayajibaugh            |
+| Red  | Sur Sagar              |
+| Blue | Sussen Circle          |
+| Blue | Trident Circle         |
+| Blue | Vadodara Jn            |
+| Blue | Vishwamitri            |
+| Blue | VUDA                   |
+
 # System Specifications
 - Top Speed: 80 kmph
 - Average Speed: 33 kmph
