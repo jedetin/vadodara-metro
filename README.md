@@ -59,3 +59,6 @@ Red Line connects old city of Vadodara to the industrial area of GSFC via Railwa
 - Track Gauge: Standard Gauge – 1435 mm
 - Electrification: 750 V DC Third Rail
 - Signalling: Communication-based Train Control (CBTC)
+
+> [!WARNING]  
+> Attention: This website is the original source of a route map project thoughtfully researched and developed by @jedetin prior to the planning the metro in Vadodara. Any attempt to replicate or utilize these ideas without authorization will be met with legal action. Respect intellectual property rights and seek permission before use.
